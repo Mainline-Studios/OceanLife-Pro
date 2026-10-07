@@ -54,6 +54,8 @@ The app shows a Mainline Studios splash, then loads all assets with real progres
 
 ## Browser Support
 Requires WebGL. Works in Chrome, Firefox, Safari, Edge.
+## Source
+Yeah, it's open source. Duh.
 
 ---
 *Made by Mainline Studios*
